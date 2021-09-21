@@ -1,4 +1,7 @@
 .sections{
+    position: sticky;
+    margin: 100px;
+    text-align: center;
     background-color: seashell;
     border-width: 2px;
     border-style: solid;
