@@ -2,8 +2,18 @@
     position: sticky;
     margin: 100px;
     text-align: center;
-    background-color: seashell;
+    background-color: transparent;
     border-width: 2px;
     border-style: solid;
-    border-color: black;
+    border-color:transparent;
+    color: white;
+    font-size: 25pt;
+    z-index: 2;
+}
+
+
+.about_me_text{
+    font-size: 18pt;
+
+
 }
